@@ -1,10 +1,12 @@
 # Installation
 
-Clone repo to repo_dir
+git clone https://github.com/rodevapps/autosoftware.git Autosoftware
 
-cd repo_dir/backend
+cd Autosoftware/backend
 
 composer install
+
+chmod 777 db.csv
 
 cd ..
 
